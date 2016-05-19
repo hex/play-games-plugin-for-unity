@@ -1,3 +1,6 @@
+[![Codeship Status for boennemann/badges](https://codeship.com/projects/0fbee390-ffcc-0133-b8d7-2226594cdff0/status?branch=master)](https://www.codeship.io/projects/152937)
+
+
 # Google Play Games plugin for Unity
 _Copyright (c) 2014 Google Inc. All rights reserved._
 
